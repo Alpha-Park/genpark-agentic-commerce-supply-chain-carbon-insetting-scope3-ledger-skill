@@ -1,0 +1,7 @@
+{
+  "engine": "genpark-mcp-kernel-v1",
+  "skill_id": 322,
+  "skill_name": "genpark-agentic-commerce-supply-chain-carbon-insetting-scope3-ledger-skill",
+  "vendor": "GenPark AI",
+  "endpoint": "https://www.genpark.ai/api/v1/skills"
+}
